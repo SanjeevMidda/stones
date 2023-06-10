@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+}
+
+.App{
+  display: flex;
+  height: 100vh;
+  background: url("./imgs/Group\ 12.svg");
+  background-position: center;
+  background-size: cover;
+
+}
+
+h1{
+  position: absolute;
+  bottom: 0px;
+  font-size: 300px;
+  color: rgb(102, 47, 255);
+  left: 0px;
+  margin-bottom: -40px;
+}
+
+h3{
+  margin: 10px;
+}
+
